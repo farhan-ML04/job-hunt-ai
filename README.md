@@ -32,10 +32,4 @@ Built an **AI-powered job application assistant** that automates resume tailorin
 
 ## 🌐 Live App
 
-👉 (Add your HuggingFace link here)
-
----
-
-## 👨‍💻 Author
-
-Farhan Abbas
+Link-
